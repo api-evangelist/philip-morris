@@ -1,5 +1,5 @@
 # Philip Morris (philip-morris)
-Philip Morris is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Philip Morris.
+Philip Morris International is a Fortune 500 international tobacco company offering smoke-free products and combustible tobacco products to adult consumers around the world. This repository captures the APIs, developer tools, and machine-readable API artifacts for Philip Morris.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/philip-morris/refs/heads/main/apis.yml)
 
@@ -16,7 +16,7 @@ Philip Morris is a Fortune 500 company. This repository captures the APIs, devel
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
