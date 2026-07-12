@@ -6,6 +6,8 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/philip-morris-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/philipmorrisintl
   - type: LinkedIn
