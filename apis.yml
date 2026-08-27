@@ -1,4 +1,5 @@
 aid: philip-morris
+name: "Philip Morris International"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
