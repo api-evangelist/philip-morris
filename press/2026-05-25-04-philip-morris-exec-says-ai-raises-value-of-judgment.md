@@ -1,7 +1,9 @@
 ---
 title: Philip Morris exec says AI raises value of judgment
 url: https://www.stocktitan.net/news/PM/philip-morris-international-s-moira-gilchrist-positions-human-x7k8pwcbrfbm.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Philip Morris International" press release artificial intelligence'
 position: 4
 source: serpapi-google

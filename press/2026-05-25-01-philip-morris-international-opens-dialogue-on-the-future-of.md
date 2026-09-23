@@ -1,7 +1,9 @@
 ---
 title: Philip Morris International Opens Dialogue on the Future of ...
 url: https://www.pmi.com/media-center/press-releases/press-details?newsId=29491
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Philip Morris International" press release artificial intelligence'
 position: 1
 source: serpapi-google

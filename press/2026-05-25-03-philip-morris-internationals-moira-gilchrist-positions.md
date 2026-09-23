@@ -1,7 +1,9 @@
 ---
 title: Philip Morris International's Moira Gilchrist Positions ...
 url: https://www.pmi.com/investor-relations/press-releases-and-events/press-releases-overview/press-release-details?newsId=30046
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Philip Morris International" press release artificial intelligence'
 position: 3
 source: serpapi-google
